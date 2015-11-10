@@ -4,11 +4,11 @@
 - Be MEAN
     + MEAN
         * MongoDB
-        [x] Aula 01
-        [ ] Aula 02
-        [ ] Aula 03
-        [ ] Aula 04
-        [ ] Aula 05
+        - [x] Aula 01
+        - [ ] Aula 02
+        - [ ] Aula 03
+        - [ ] Aula 04
+        - [ ] Aula 05
         * Node.js
         * AngularJs
     + Frontend
