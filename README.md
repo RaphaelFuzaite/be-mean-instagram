@@ -4,8 +4,8 @@
 - Be MEAN
     + MEAN
         * MongoDB
-        - [x] ~~Aula 01~~
-        - [ ] Aula 02
+        - [x] ~~Aula 01 - Introdução ao curso, definição de NoSQL, mongoimport e mongoexport~~
+        - [x] ~~Aula 02 - Criação de database no MongoDB, inserção e atualizaçao de dados~~
         - [ ] Aula 03
         - [ ] Aula 04
         - [ ] Aula 05

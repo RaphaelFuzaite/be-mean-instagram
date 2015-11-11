@@ -1,0 +1,6 @@
+[{"name":"Raikou", "description":"Raikou embodies the speed of lightning.", "type": "Eletric", "attack": 85, "height": 1.9, "defense": 75},
+{"name":"Entei", "description":"Entei embodies the passion of magma.", "type": "Fire", "attack": 115, "height": 2.1, "defense": 85},
+{"name":"Suicune", "description":"Suicune embodies the compassion of a pure spring of water.", "type": "Water", "attack": 75, "height": 2.0, "defense": 115},
+{"name":"Venusaur", "description":"There is a large flower on Venusaur's back.", "type": "Grass", "attack": 82, "height": 2.0, "defense": 83},
+{"name":"Charizard", "description":"Charizard flies around the sky in search of powerful opponents.", "type": "Fire", "attack": 84, "height": 1.7, "defense": 78},
+{"name":"Blastoise", "description":"Blastoise has water spouts that protrude from its shell.", "type": "Water", "attack": 83, "height": 1.6, "defense": 100}]
