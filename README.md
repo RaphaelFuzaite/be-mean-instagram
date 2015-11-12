@@ -6,7 +6,7 @@
         * MongoDB
         - [x] ~~Aula 01 - Introdução ao curso, definição de NoSQL, mongoimport e mongoexport~~
         - [x] ~~Aula 02 - Criação de database no MongoDB, inserção e atualizaçao de dados~~
-        - [ ] Aula 03
+        - [x] ~~Aula 03 - Queries de consulta as coleções utilizando opradores lógicos~~
         - [ ] Aula 04
         - [ ] Aula 05
         * Node.js
