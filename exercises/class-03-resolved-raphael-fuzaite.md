@@ -14,7 +14,6 @@ Autor: Raphael Fuzaite
     >
     > var query = {"height": {$lt: 0.5}}
     > db.pokemons.find(query)
-    >
 
     ```
 
@@ -24,13 +23,15 @@ Autor: Raphael Fuzaite
 
     > var query = {"height": {$gte: 0.5}}
     > db.pokemons.find(query)
-    { "_id" : ObjectId("5643550bb1dbcf28b86b63de"), 
-    "name" : "Raikou",
-     "description": "Raikou's roar send shock waves shuddering through the air",
-      "type" : "Eletric", 
-      "attack" : 85, 
-      "height" : 1.9, 
-      "defense" : 75 }
+    {
+        "_id" : ObjectId("5643550bb1dbcf28b86b63de"), 
+        "name" : "Raikou",
+        "description": "Raikou's roar send shock waves shuddering through the air",
+        "type" : "Eletric", 
+        "attack" : 85, 
+        "height" : 1.9, 
+        "defense" : 75 
+    }
     { 
         "_id" : ObjectId("5643550bb1dbcf28b86b63df"), 
         "name" : "Entei",
@@ -76,7 +77,6 @@ Autor: Raphael Fuzaite
         "height" : 1.6, 
         "defense" : 100
     }
-    >
 
     ```
     
