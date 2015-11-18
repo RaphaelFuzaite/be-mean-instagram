@@ -7,7 +7,7 @@
         - [x] ~~Aula 01 - Introdução ao curso, definição de NoSQL, mongoimport e mongoexport~~
         - [x] ~~Aula 02 - Criação de database no MongoDB, inserção e atualizaçao de dados~~
         - [x] ~~Aula 03 - Queries de consulta as coleções utilizando opradores lógicos~~
-        - [x] ~~Aula 04 - Manipulação de arrays e alteração de dados das coleções ~~
+        - [x] ~~Aula 04 - Manipulação de arrays e alteração de dados das coleções~~
         - [ ] Aula 05
         * Node.js
         * AngularJs
