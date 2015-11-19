@@ -8,7 +8,7 @@
         - [x] ~~Aula 02 - Criação de database no MongoDB, inserção e atualizaçao de dados~~
         - [x] ~~Aula 03 - Queries de consulta as coleções utilizando opradores lógicos~~
         - [x] ~~Aula 04 - Manipulação de arrays e alteração de dados das coleções~~
-        - [ ] Aula 05
+        - [x] ~~Aula 05 - Distinct, Group, Limit, Skip e Aggregate~~
         * Node.js
         * AngularJs
     + Frontend
